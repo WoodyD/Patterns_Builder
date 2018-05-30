@@ -1,0 +1,7 @@
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_Builder\Patterns_Builder\bin\Debug\Patterns_Builder.exe.config
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_Builder\Patterns_Builder\bin\Debug\Patterns_Builder.exe
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_Builder\Patterns_Builder\bin\Debug\Patterns_Builder.pdb
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_Builder\Patterns_Builder\obj\Debug\Patterns_Builder.csprojResolveAssemblyReference.cache
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_Builder\Patterns_Builder\obj\Debug\Patterns_Builder.csproj.CoreCompileInputs.cache
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_Builder\Patterns_Builder\obj\Debug\Patterns_Builder.exe
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_Builder\Patterns_Builder\obj\Debug\Patterns_Builder.pdb
